@@ -1,7 +1,7 @@
 # Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
 
 ## Project Title *
-## Central business district Comparison Between Frankfurt and London
+## Central business district comparison between Frankfurt and London
 
 Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the 
 Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with 
@@ -14,5 +14,8 @@ your __Data__ section) to your Github repository and submit a link to it.
 
 ### Data
 
-the link for data https://en.wikipedia.org/wiki/Bankenviertel
-https://en.wikipedia.org/wiki/Canary_Wharf
+This table lists completed buildings in Canary Wharf that are over 60 metres tall. 
+
+the link for data 
+[Bankenviertel](https://en.wikipedia.org/wiki/Bankenviertel) 
+[Canary Wharf](https://en.wikipedia.org/wiki/Canary_Wharf)
