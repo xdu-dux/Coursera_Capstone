@@ -21,11 +21,13 @@ Before start the introduction, I'd like to explain some background of my topic. 
 
 Definition: a __central business district__ designates an area in the city centre where many banks, insurance companies, and other financial institutions are located. In London, City of London (a city and local government district) and Canary Wharf are the primary and secondary CBD. In Frankfurt is the Bankenviertel (_meaning: banking quarter_)
 
-A problem is, nether we could recognize a CBD easily in map nor give an official coordinate. for example Bankenviertel is commonly defined as the western part of the Innenstadt, the southern part of the Westend and the eastern part of the Bahnhofsviertel. 
+A problem is, nether we could describe strict borders of a CBD nor give an official coordinate. for example Bankenviertel is commonly defined as the western part of the Innenstadt, the southern part of the Westend and the eastern part of the Bahnhofsviertel. 
+
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bankenviertel_%28Banking_District%29_in_Frankfurt.png/330px-Bankenviertel_%28Banking_District%29_in_Frankfurt.png" width="50%">
 
 Fortunately we find out, that skyscraper is a big sign of CBD. We can Google the list of tallest buildings in the two cities. With adress we can calculate the coordinates. With the coordinates we can get the conditions around them. Then our analysis is appear to realize. 
 
-There are some oversupply with location service. all around venues will be provided.   Because suitable for a report of this size and make the report more tageted, we try to analyze deeply in six main sections. 
+There are some oversupply with location service. all around venues will be provided. we extract those data in order to    suitable for a requirement of a businessman. make the report more tageted, we try to analyze deeply in six main sections. 
 
 1. Catering Services:
     - Food court, restaurant, bakery, bar, bistro, lounge, pub, cafe etc
