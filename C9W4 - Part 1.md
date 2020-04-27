@@ -24,6 +24,7 @@ Definition: a __central business district__ designates an area in the city centr
 A problem is, nether we could describe strict borders of a CBD nor give an official coordinate. for example Bankenviertel is commonly defined as the western part of the Innenstadt, the southern part of the Westend and the eastern part of the Bahnhofsviertel. 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bankenviertel_%28Banking_District%29_in_Frankfurt.png/330px-Bankenviertel_%28Banking_District%29_in_Frankfurt.png" alt="The commonly defined Bankenviertel" width="40%">
+
 _The commonly defined Bankenviertel_
 
 Fortunately we find out, that skyscraper is a big sign of CBD. We can Google the list of tallest buildings in the two cities. With adress we can calculate the coordinates. With the coordinates we can get the conditions around them. Then our analysis is appear to realize. 
