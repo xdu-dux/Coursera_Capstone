@@ -17,7 +17,9 @@ link to it.
 
 #### How different between Frankfurt and London in Central business district?
 
-The UK stopped being a member of the European Union (EU) at 23:00 GMT on 31 January 2020. It's called also __Brexit__ - British exit - refers to the UK leaving the EU. Along with the City of London, it is one of the main financial centres of the United Kingdom and the Europe, containing many of corporations and agencies' headquarter in Europe. and now they might find a place for landing the headquarter in Europe. Let's focus on Bank. As another world famous financial centre - Frankfurt. man could not help imagining: whether whether bank corporations interest in landing headquarter to Frankfurt. Ordinarily there are thoutend sections to compare. Because suitable for a report of this size, we try to figuer out a part of indicators in four sections.
+The UK stopped being a member of the European Union (EU) at 23:00 GMT on 31 January 2020. It's called also __Brexit__ - British exit - refers to the UK leaving the EU. Along with the City of London, it is one of the main financial centres of the United Kingdom and the Europe, containing many of corporations and agencies' headquarter in Europe. But after Brexit maybe they want to find a new place and transfer some staffs and departments for the business within EU. 
+
+Let's focus on __Banking__. They like to work in tall buiding and settle nearby in As another world famous financial centre - Frankfurt. man could not help imagining: whether whether bank corporations interest in landing headquarter to Frankfurt. Ordinarily there are thoutend sections to compare. Because suitable for a report of this size, we try to figuer out a part of indicators in four sections.
 
 1. Catering Services:
 2. Entertainment:
