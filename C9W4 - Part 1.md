@@ -17,14 +17,27 @@ link to it.
 
 #### How different between Frankfurt and London in Central business district?
 
-The UK stopped being a member of the European Union (EU) at 23:00 GMT on 31 January 2020. It's called also __Brexit__ - British exit - refers to the UK leaving the EU. Along with the City of London, it is one of the main financial centres of the United Kingdom and the Europe, containing many of corporations and agencies' headquarter in Europe. But after Brexit maybe they want to find a new place and transfer some staffs and departments for the business within EU. 
+Before start the introduction, I'd like to explain some background of my topic. The UK stopped being a member of the European Union (EU) at 23:00 GMT on 31 January 2020. It's called also __Brexit__ - British exit - refers to the UK leaving the EU. The UK will leave the single market and customs union at the end of the transition. The capital city London, which is today one of the main financial centres of the United Kingdom and even the EU, contains many of corporations and agencies, which are also their european headquarter. Due to Brexit maybe they want to relocate to EU and transfer some staffs and departments for the business within EU. 
 
-Let's focus on __Banking__. They like to work in tall buiding and settle nearby in As another world famous financial centre - Frankfurt. man could not help imagining: whether whether bank corporations interest in landing headquarter to Frankfurt. Ordinarily there are thoutend sections to compare. Because suitable for a report of this size, we try to figuer out a part of indicators in four sections.
+Definition: a __central business district__ designates an area in the city centre where many banks, insurance companies, and other financial institutions are located. In London, City of London (a city and local government district) and Canary Wharf are the primary and secondary CBD. In Frankfurt is the Bankenviertel (_meaning: banking quarter_)
+
+A problem is, nether we could recognize a CBD easily in map nor give an official coordinate. for example Bankenviertel is commonly defined as the western part of the Innenstadt, the southern part of the Westend and the eastern part of the Bahnhofsviertel. 
+
+Fortunately we find out, that skyscraper is a big sign of CBD. We can Google the list of tallest buildings in the two cities. With adress we can calculate the coordinates. With the coordinates we can get the conditions around them. Then our analysis is appear to realize. 
+
+There are some oversupply with location service. all around venues will be provided.   Because suitable for a report of this size and make the report more tageted, we try to analyze deeply in six main sections. 
 
 1. Catering Services:
-2. Entertainment:
+    - Food court, restaurant, bakery, bar, bistro, lounge, pub, cafe etc
+2. Free time:
+    - Art gallery, shop, store, museum, theater, nightclub, opera house, music venue, etc
 3. Sport:
+    - Aquarium, stadium, court, gym, arena, fitness studio, etc
 4. Medical care:
-
+    - Health Service, Hospital, Pharmacy, medical center etc
+5. Lodging:
+    - Hostel, Hotel, motel, etc
+6. Public Service:
+    - Post office, train station, metro station, bus etc
 
 
