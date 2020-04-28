@@ -13,7 +13,7 @@ This submission will eventually become your __Data__ section in your final repor
 
 For this project we need following data set:
 
-- Skyscrapers and tall buildings in Central business district, City of London, London
+- Skyscrapers and tall buildings in central business district, City of London, London
 
 > The link of data source 
 >
@@ -21,7 +21,7 @@ For this project we need following data set:
 >
 > Description: The City's buildings are completed and more than 100 m (328 ft) in height   
 
-- Tallest buildings in Central business district, Canary Wharf, London
+- Tallest buildings in central business district, Canary Wharf, London
 
 > The link of data source 
 > 
@@ -29,7 +29,7 @@ For this project we need following data set:
 >
 > Description: The completed buildings in Canary Wharf that are over 60 metres tall. 
 
-- Financial institutions in Bankenviertel, Frankfurt 
+- Financial institutions in central business district, Bankenviertel, Frankfurt 
 
 > The link of data source 
 >
