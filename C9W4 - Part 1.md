@@ -74,5 +74,5 @@ My analysis will discover the daily consumption habits of businessman between Fr
 
 Now we will compare the data set between Frankfurt and London. Let's see how different beween them. 
 
-<u>Thank you for your reading</u>
-<u>带下划线文本</u>
+<ins>Thank you for reading</ins>
+
