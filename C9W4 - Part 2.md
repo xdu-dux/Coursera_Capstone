@@ -45,4 +45,4 @@ For this project we need following data set:
 >
 > Usage: Using this API we will get all the venues in each neighborhood nearby a skyscrapers. We will filter these venues later for further analysis.
 
-Thanks a lot!
+<u>Thank you for reading</u>
