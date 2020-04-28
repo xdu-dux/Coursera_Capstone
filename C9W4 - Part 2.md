@@ -7,15 +7,42 @@ Describe the data that you will be using to solve the problem or execute your id
 Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with 
 the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
 
-This submission will eventually become your __Data__ section in your final report. So I recommend that you push the report (having 
-your __Data__ section) to your Github repository and submit a link to it.
+This submission will eventually become your __Data__ section in your final report. So I recommend that you push the report (having your __Data__ section) to your Github repository and submit a link to it.
 
-## Part 2
+### Part 2. Data
 
-### Data
+For this project we need following data set:
 
-This table lists completed buildings in Canary Wharf that are over 60 metres tall. 
+- Skyscrapers and tall buildings in Central business district, City of London, London
 
-the link for data 
-[Bankenviertel](https://en.wikipedia.org/wiki/Bankenviertel) 
-[Canary Wharf](https://en.wikipedia.org/wiki/Canary_Wharf)
+> The link of data source 
+>
+> [City of London](https://en.wikipedia.org/wiki/City_of_London)
+>
+> Description: The City's buildings are completed and more than 100 m (328 ft) in height   
+
+- Tallest buildings in Central business district, Canary Wharf, London
+
+> The link of data source 
+> 
+> [Canary Wharf](https://en.wikipedia.org/wiki/Canary_Wharf)
+>
+> Description: The completed buildings in Canary Wharf that are over 60 metres tall. 
+
+- Financial institutions in Bankenviertel, Frankfurt 
+
+> The link of data source 
+>
+> [Bankenviertel](https://en.wikipedia.org/wiki/Bankenviertel) 
+>
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Eurotower-04-09.jpg/330px-Eurotower-04-09.jpg" width="75%">
+
+> Data source: GeoPy API
+>
+> Usage: Using this API we will calculate coordinate by every building adress. And those coordinate will be used in next step to gether venues around. 
+
+> Data source: Fousquare API
+>
+> Usage: Using this API we will get all the venues in each neighborhood nearby a skyscrapers. We will filter these venues later for further analysis.
+
+Thanks a lot!
