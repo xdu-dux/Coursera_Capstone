@@ -35,7 +35,7 @@ For this project we need following data set:
 >
 > [Bankenviertel - Wikipedia](https://en.wikipedia.org/wiki/Bankenviertel) 
 >
-> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Eurotower-04-09.jpg/330px-Eurotower-04-09.jpg" width="50%">
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Eurotower-04-09.jpg/330px-Eurotower-04-09.jpg" width="25%">
 
 > GeoPy API
 >
