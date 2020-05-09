@@ -45,7 +45,7 @@ My analysis will discover the daily consumption habits of businessman between Fr
     - Shop/Store 
     - Museum
     - Theater/Opera house/Music venue
-    - Nightclub 
+    - Nightclub/Club 
     - etc.
 3. Sport:
     - Aquarium
