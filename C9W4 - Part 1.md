@@ -50,7 +50,6 @@ My analysis will discover the daily consumption habits of businessman between Fr
 3. Sport:
     - Aquarium
     - Stadium/Arena
-    - Court 
     - Gym 
     - Fitness studio 
     - etc.
@@ -66,6 +65,7 @@ My analysis will discover the daily consumption habits of businessman between Fr
     - Motel 
     - etc.
 6. Public Service:
+    - Court 
     - Post office 
     - Train station 
     - Metro station 
